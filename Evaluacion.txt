@@ -1,5 +1,8 @@
-Noelia Abigail
 Núñez Arroba
+Noelia Abigail
+
 Lenguajes: PHP, JAVA
 SGBD: Oracle, SQLServer 
+Teléfono: 0967480967
+
 
